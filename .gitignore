@@ -1,0 +1,10 @@
+# Yelp Open Dataset files are large and licensed by Yelp; do not redistribute
+data/
+output/
+*.json
+*.csv
+*.xlsx
+*.pbix
+__pycache__/
+*.pyc
+.venv/
