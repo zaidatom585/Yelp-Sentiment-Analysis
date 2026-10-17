@@ -1,2 +1,8 @@
 pandas
 openpyxl
+pyarrow
+vaderSentiment
+scikit-learn
+tabulate
+transformers
+torch
